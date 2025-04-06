@@ -1,12 +1,35 @@
-# React + Vite
+# 💸 ExpenseTrackr Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the landing page for **ExpenseTrackr**, a simple and modern budgeting app designed to help users track their spending and stay on top of their finances.
 
-Currently, two official plugins are available:
+This project is a responsive landing page built using **React** and **Vite**, showcasing the features and benefits of the ExpenseTrackr web app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔍 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Clear and focused hero section
+- 📋 Feature highlights with clean typography
+- ❓ Simple FAQ section for common questions
+- 📱 Responsive design for mobile and desktop
+- 🎨 Stylish gradient background with finance-inspired colors
+
+---
+
+## ⚙️ Technologies Used
+
+- React
+- Vite
+- HTML5 + CSS3
+- JavaScript (ES6+)
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/Nateliso/landing-page.git
